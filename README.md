@@ -25,3 +25,7 @@ RPDE,D2 - Two nonlinear dynamical complexity measures
 DFA - Signal fractal scaling exponent  
 spread1,spread2,PPE - Three nonlinear measures of fundamental frequency variation  
 
+
+
+PS.:  
+after downloading css and js file, paste them in folder called "assets" in same folder of application file
